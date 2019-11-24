@@ -1,0 +1,19 @@
+{
+  "name": "underk-types",
+  "version": "1.0.0",
+  "description": "ORDER_STATUS_CREATED: 'created',\r ORDER_STATUS_PLACED: 'placed',\r ORDER_STATUS_CANCELLED: 'cancelled',\r ORDER_STATUS_USER_CANCELLED: 'usercancelled',\r ORDER_STATUS_ACCEPTED: 'accepted',\r ORDER_STATUS_IN_PROGRESS: 'inprogress',\r ORDER_STATUS_RETURN_IN_PROGRESS: 'returninprogress',\r ORDER_STATUS_FULFILLED: 'fulfilled',\r ORDER_STATUS_CLOSED: 'closed',",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devesh2997/underk-types.git"
+  },
+  "author": "Devesh Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesh2997/underk-types/issues"
+  },
+  "homepage": "https://github.com/devesh2997/underk-types#readme"
+}
