@@ -2,6 +2,7 @@ module.exports = {
     ORDER_STATUS_CREATED: 'created',
     ORDER_STATUS_PLACED: 'placed',
 
+    PRODUCT_STATUS_INIT: 'init',
     PRODUCT_STATUS_CANCELLED: 'cancelled',
     PRODUCT_STATUS_USER_CANCELLED: 'usercancelled',
     PRODUCT_STATUS_ACCEPTED: 'accepted',

@@ -4,6 +4,7 @@ placed
 
 
 product status:
+init
 cancelled
 usercancelled
 accepted
