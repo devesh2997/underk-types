@@ -1,13 +1,14 @@
 module.exports = {
     ORDER_STATUS_CREATED: 'created',
     ORDER_STATUS_PLACED: 'placed',
-    ORDER_STATUS_CANCELLED: 'cancelled',
-    ORDER_STATUS_USER_CANCELLED: 'usercancelled',
-    ORDER_STATUS_ACCEPTED: 'accepted',
-    ORDER_STATUS_IN_PROGRESS: 'inprogress',
-    ORDER_STATUS_RETURN_IN_PROGRESS: 'returninprogress',
-    ORDER_STATUS_FULFILLED: 'fulfilled',
-    ORDER_STATUS_CLOSED: 'closed',
+
+    PRODUCT_STATUS_CANCELLED: 'cancelled',
+    PRODUCT_STATUS_USER_CANCELLED: 'usercancelled',
+    PRODUCT_STATUS_ACCEPTED: 'accepted',
+    PRODUCT_STATUS_IN_PROGRESS: 'inprogress',
+    PRODUCT_STATUS_RETURN_IN_PROGRESS: 'returninprogress',
+    PRODUCT_STATUS_FULFILLED: 'fulfilled',
+    PRODUCT_STATUS_CLOSED: 'closed',
   
     PAYMENT_STATUS_COD: 'cod',
     PAYMENT_STATUS_PENDING: 'pending',
@@ -27,6 +28,9 @@ module.exports = {
     DELIVERY_STATUS_RETURN_IN_TRANSIT: 'returnintransit',
     DELIVERY_STATUS_RETURNED: 'returned',
   
-    DELIVERY_PROVIDER_DELHIVERY: 'delhivery'
+    DELIVERY_PROVIDER_DELHIVERY: 'delhivery',
+
+    ADDRESS_TYPE_HOME: 'home',
+    ADDRESS_TYPE_WORK: 'work'
   }
   
