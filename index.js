@@ -22,6 +22,7 @@ module.exports = {
     DELIVERY_STATUS_MANIFESTED: 'manifested',
     DELIVERY_STATUS_IN_TRANSIT: 'intransit',
     DELIVERY_STATUS_OUT_FOR_DELIVERY: 'outfordelivery',
+    DELIVERY_STATUS_OUT_FOR_PICKUP: 'outforpickup',
     DELIVERY_STATUS_DELIVERED: 'delivered',
     DELIVERY_STATUS_RETURN_REQUESTED: 'returnrequested',
     DELIVERY_STATUS_RETURN_ACCEPTED: 'returnaccepted',
