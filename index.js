@@ -1,6 +1,8 @@
 module.exports = {
     ORDER_STATUS_CREATED: 'created',
     ORDER_STATUS_PLACED: 'placed',
+    ORDER_STATUS_ACTIVE: 'active',
+    ORDER_STATUS_CLOSED: 'closed',
 
     PRODUCT_STATUS_INIT: 'init',
     PRODUCT_STATUS_CANCELLED: 'cancelled',
