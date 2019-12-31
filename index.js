@@ -23,6 +23,7 @@ module.exports = {
     DELIVERY_STATUS_INIT: 'init',
     DELIVERY_STATUS_MANIFESTED: 'manifested',
     DELIVERY_STATUS_IN_TRANSIT: 'intransit',
+    DELIVERY_STATUS_PENDING: 'pending',
     DELIVERY_STATUS_OUT_FOR_DELIVERY: 'outfordelivery',
     DELIVERY_STATUS_OUT_FOR_PICKUP: 'outforpickup',
     DELIVERY_STATUS_DELIVERED: 'delivered',
