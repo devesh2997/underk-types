@@ -3,6 +3,7 @@ module.exports = {
     ORDER_STATUS_PLACED: 'placed',
     ORDER_STATUS_ACTIVE: 'active',
     ORDER_STATUS_CLOSED: 'closed',
+    ORDER_STATUS_DORMANT: 'dormant',
 
     PRODUCT_STATUS_INIT: 'init',
     PRODUCT_STATUS_CANCELLED: 'cancelled',
@@ -27,8 +28,6 @@ module.exports = {
     DELIVERY_STATUS_OUT_FOR_DELIVERY: 'outfordelivery',
     DELIVERY_STATUS_OUT_FOR_PICKUP: 'outforpickup',
     DELIVERY_STATUS_DELIVERED: 'delivered',
-    DELIVERY_STATUS_RETURN_REQUESTED: 'returnrequested',
-    DELIVERY_STATUS_RETURN_ACCEPTED: 'returnaccepted',
     DELIVERY_STATUS_RETURN_MANIFESTED: 'returnmanifested',
     DELIVERY_STATUS_RETURN_IN_TRANSIT: 'returnintransit',
     DELIVERY_STATUS_RETURNED: 'returned',
