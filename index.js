@@ -35,6 +35,11 @@ module.exports = {
     DELIVERY_PROVIDER_DELHIVERY: 'delhivery',
 
     ADDRESS_TYPE_HOME: 'home',
-    ADDRESS_TYPE_WORK: 'work'
+    ADDRESS_TYPE_WORK: 'work',
+
+    ACTION_STATUS_INIT: 'init',
+    ACTION_STATUS_PROCESSING: 'processing',
+    ACTION_STATUS_COMPLETED: 'completed',
+    ACTION_STATUS_ERROR: 'error'
   }
   
