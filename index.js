@@ -36,6 +36,10 @@ module.exports = {
     RETURN_REFUND_STATUS_DECLINED: 'refunddeclined',
     RETURN_REFUND_STATUS_PARTIAL: 'refundpartial',
     RETURN_REFUND_STATUS_REFUNDED: 'refunded',
+
+    RETURN_PRODUCT_CONDITION_INIT: 'init',
+    RETURN_PRODUCT_CONDITION_DAMAGED: 'product-damaged',
+    RETURN_PRODUCT_CONDITION_OKAY: 'product-okay',
   
     DELIVERY_PROVIDER_DELHIVERY: 'delhivery',
 
