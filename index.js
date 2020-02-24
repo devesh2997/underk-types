@@ -31,6 +31,11 @@ module.exports = {
     DELIVERY_STATUS_RETURN_MANIFESTED: 'returnmanifested',
     DELIVERY_STATUS_RETURN_IN_TRANSIT: 'returnintransit',
     DELIVERY_STATUS_RETURNED: 'returned',
+
+    RETURN_REFUND_STATUS_INIT : 'refundinit',
+    RETURN_REFUND_STATUS_DECLINED: 'refunddeclined',
+    RETURN_REFUND_STATUS_PARTIAL: 'refundpartial',
+    RETURN_REFUND_STATUS_REFUNDED: 'refunded',
   
     DELIVERY_PROVIDER_DELHIVERY: 'delhivery',
 
