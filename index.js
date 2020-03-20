@@ -11,6 +11,7 @@ module.exports = {
     PRODUCT_STATUS_ACCEPTED: 'accepted',
     PRODUCT_STATUS_IN_PROGRESS: 'inprogress',
     PRODUCT_STATUS_RETURN_IN_PROGRESS: 'returninprogress',
+    PRODUCT_STATUS_CANCELLED_RETURN_IN_PROGRESS: 'cancelledreturninprogress',
     PRODUCT_STATUS_FULFILLED: 'fulfilled',
     PRODUCT_STATUS_CLOSED: 'closed',
   
@@ -30,7 +31,9 @@ module.exports = {
     DELIVERY_STATUS_DELIVERED: 'delivered',
     DELIVERY_STATUS_RETURN_MANIFESTED: 'returnmanifested',
     DELIVERY_STATUS_RETURN_IN_TRANSIT: 'returnintransit',
+    DELIVERY_STATUS_CANCELLED_RETURN_IN_TRANSIT: 'cancelledreturnintransit',
     DELIVERY_STATUS_RETURNED: 'returned',
+    DELIVERY_STATUS_CANCELLED_RETURNED: 'cancelledreturned',
 
     RETURN_REFUND_STATUS_INIT : 'refundinit',
     RETURN_REFUND_STATUS_DECLINED: 'refunddeclined',
