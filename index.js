@@ -33,6 +33,8 @@ module.exports = {
     DELIVERY_STATUS_OUT_FOR_DELIVERY: 'outfordelivery',
     DELIVERY_STATUS_OUT_FOR_PICKUP: 'outforpickup',
     DELIVERY_STATUS_DELIVERED: 'delivered',
+    DELIVERY_STATUS_RETURN_REQUESTED: 'returnrequested',
+    DELIVERY_STATUS_RETURN_DECLINED: 'returndeclined',
     DELIVERY_STATUS_RETURN_MANIFESTED: 'returnmanifested',
     DELIVERY_STATUS_RETURN_IN_TRANSIT: 'returnintransit',
     DELIVERY_STATUS_CANCELLED_RETURN_IN_TRANSIT: 'cancelledreturnintransit',

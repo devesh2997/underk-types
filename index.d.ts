@@ -32,13 +32,15 @@ export const DELIVERY_STATUS_PENDING: string
 export const DELIVERY_STATUS_OUT_FOR_DELIVERY: string
 export const DELIVERY_STATUS_OUT_FOR_PICKUP: string
 export const DELIVERY_STATUS_DELIVERED: string
+export const DELIVERY_STATUS_RETURN_REQUESTED: string
+export const DELIVERY_STATUS_RETURN_DECLINED: string
 export const DELIVERY_STATUS_RETURN_MANIFESTED: string
 export const DELIVERY_STATUS_RETURN_IN_TRANSIT: string
 export const DELIVERY_STATUS_CANCELLED_RETURN_IN_TRANSIT: string
 export const DELIVERY_STATUS_RETURNED: string
 export const DELIVERY_STATUS_CANCELLED_RETURNED: string
 
-export const RETURN_REFUND_STATUS_INIT : string
+export const RETURN_REFUND_STATUS_INIT: string
 export const RETURN_REFUND_STATUS_DECLINED: string
 export const RETURN_REFUND_STATUS_PARTIAL: string
 export const RETURN_REFUND_STATUS_REFUNDED: 'refunded',
