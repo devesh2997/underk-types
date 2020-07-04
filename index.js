@@ -2,6 +2,7 @@ module.exports = {
     PRODUCT_STATUS_ACTIVE: 'active',
     PRODUCT_STATUS_DISABLED: 'disabled',
     PRODUCT_STATUS_UNAVAILABLE: 'unavailable',
+    PRODUCT_STATUS_STAGED: 'staged',
 
     ORDER_STATUS_CREATED: 'created',
     ORDER_STATUS_PLACED: 'placed',

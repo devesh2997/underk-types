@@ -1,6 +1,7 @@
 export const PRODUCT_STATUS_ACTIVE: string
-export const RODUCT_STATUS_DISABLED: string
+export const PRODUCT_STATUS_DISABLED: string
 export const PRODUCT_STATUS_UNAVAILABLE: string
+export const PRODUCT_STATUS_STAGED: string
 
 export const ORDER_STATUS_CREATED: string
 export const ORDER_STATUS_PLACED: string
