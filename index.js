@@ -47,6 +47,7 @@ module.exports = {
     RETURN_PRODUCT_CONDITION_OKAY: 'product-okay',
   
     DELIVERY_PROVIDER_DELHIVERY: 'delhivery',
+    DELIVERY_PROVIDER_SHIPROCKET: 'shiprocket',
 
     ADDRESS_TYPE_HOME: 'home',
     ADDRESS_TYPE_WORK: 'work',
